@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "uroboros-c9ba4": {
+      "hosting": {
+        "appvs": [
+          "uroboros-c9ba4"
+        ]
+      }
+    }
+  }
+}

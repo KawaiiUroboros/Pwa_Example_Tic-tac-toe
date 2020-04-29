@@ -1,0 +1,7 @@
+{
+  "pwa": {
+    "clientProject": "appvs",
+    "skipInstall": false,
+    "directory": "."
+  }
+}
