@@ -1,6 +1,7 @@
-# Appvs
+# TIC_TAC_TOE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+This project an example game made with love and anfular
+you can test an implemented version on !!!!!https://uroboros-c9ba4.web.app/!!!!
 
 ## Development server
 
